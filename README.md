@@ -6,6 +6,8 @@ Este repositório contém um notebook em Python que implementa um fluxo de anál
 
 O projeto demonstra a aplicação dessas técnicas no dataset "Wine" da biblioteca `scikit-learn`.
 
+Esse projeto é parte da disciplina de Reconhecimento de Padrões, do curso de Ciência da Computação do Instituto Federal de Educação e Tecnologia do Ceará, aluno Iuri A. Esmeraldo.
+
 ---
 
 ## Objetivo Técnico
